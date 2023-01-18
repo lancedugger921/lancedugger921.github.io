@@ -8,6 +8,7 @@ Welcome to my Github page.  Please feel free to browse some of the projects I ha
 ## SQL
 - [Udacity Nanodegree SQL Project Presentation](SQLProject.pdf)
 - [Udacity Nanodegree SQL Project Queries](Queries)
+- [Udacity Nanodegree SQL Project ERD](ERD.png)
 
 ## Python
 - [Time Series Decomposition](TimeSeriesDecomp.html)
