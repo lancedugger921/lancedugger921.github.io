@@ -6,7 +6,8 @@ title: Lance Dugger Github Page
 Welcome to my Github page.  Please feel free to browse some of the projects I have worked on in the past year.
 
 ## SQL
-- [Udacity Nanodegree SQL Project](lancedugger921.github.io/UdacitySQLProject/index.md)
+- [Udacity Nanodegree SQL Project Presentation](SQLProject.pdf)
+- [Udacity Nanodegree SQL Project Queries](Queries)
 
 ## Python
 - [Time Series Decomposition](TimeSeriesDecomp.html)
