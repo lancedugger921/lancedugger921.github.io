@@ -3,7 +3,7 @@ title: Lance Dugger Github Page
 ---
 
 ![Mountains](\Mountains.jpg)
-Welcome to my Github page.  Please feel free to browse some of the projects I have worked on in the past year.
+Welcome to my Github page.  Please feel free to browse some of the projects I have worked on.
 
 ## SQL
 - [Udacity Nanodegree SQL Project Presentation](SQLProject.pdf)
